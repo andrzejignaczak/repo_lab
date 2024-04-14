@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">zaliczeniedwa</string>
+    <string name="tekst_stop">QUIT</string>
+    <string name="poprz">poprzedni</string>
+    <string name="nastepny">następny</string>
+    <string name="todo">TODO</string>
+    <string name="koszyk">Dodaj do koszyka</string>
+    <string name="Button_Kup">Kup</string>
+    <string name="kontynuluj_zakup">Kontynułuj zakupy</string>
+    <string name="okno">Lista</string>
+    <string name="button_cofnij">Cofnij</string>
+    <string name="scrol">s</string>
+    <string name="cena">cena</string>
+
+</resources>
